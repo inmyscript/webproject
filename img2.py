@@ -15,7 +15,7 @@ draw2 = Image.blend(bg,im,1.0)
 
 draw = ImageDraw.Draw(draw2)
 
-name = "梁二哈"
+name = "许家印"
 site = "地址:"+"广东省清远市某某区屋某村某巷21号"
 work = "游戏开发工程师"
 tel  = "手机:"+"138-1536-1734"
